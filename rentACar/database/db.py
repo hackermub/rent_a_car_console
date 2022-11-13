@@ -118,3 +118,4 @@ class DB:
 
 
         print(f"The rent lasted {days} days and the cost is {price} euros")
+        
